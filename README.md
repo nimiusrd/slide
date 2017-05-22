@@ -1,3 +1,3 @@
 スライド置き場
 
-- [test](test.html)
+- [説明会](shinkan.html)
